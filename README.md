@@ -1,1 +1,2 @@
-# Project-1
+# Analysis of mortgage stress by geography in Australia
+Our project is to analyse mortagage stress by geograpgy in Australia-NSW. By analysing data by ABS (Australia Bureau of Statstics) and reserver bank of Australia.
