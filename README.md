@@ -25,4 +25,4 @@ Data is broken down into regions by ABS "Statistical Area 4".  This breaks NSW d
 
 ## Mortgage Stress Definition
 
-Households where mortgage repayments are greater than 30% of impuhousehold income.
+Households where mortgage repayments are greater than 30% of household income.
