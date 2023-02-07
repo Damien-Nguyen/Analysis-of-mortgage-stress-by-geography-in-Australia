@@ -19,3 +19,10 @@ A number of online home offerings have emerged in a competitive home loan market
 2)  Reserve bank of Australia (RBA)
 3)  Australian Prudential Regulation Authority (APRA).
 
+## Geographical Regions
+
+Data is broken down into regions by ABS "Statistical Area 4".  This breaks NSW down into regions.  Examples of this are "Mid North Coast" and "Sydney - Inner West". 
+
+## Mortgage Stress Definition
+
+Households where mortgage repayments are greater than 30% of impuhousehold income.
