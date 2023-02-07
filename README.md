@@ -1,7 +1,9 @@
 # Analysis of mortgage stress by geography in Australia
 
-Our project is to analyse mortagage stress by geography in NSW, Australia. 
 
+![lightning-strike-house-clipart-md](https://user-images.githubusercontent.com/119761709/217181369-51061235-c5c3-4efc-9c4a-85b3a8e82045.png)
+
+Our project is to analyse mortagage stress by geography in NSW, Australia. 
 
 ##Background
 
