@@ -1,29 +1,29 @@
-Statistical Area Level 4 (SA4),Region code,Suburb,Latitude,Longitude,,
-Capital Region,101,Canberra,-35.282001,149.128998,,
-Central Coast,102,The Entrance,-33.347222,151.496111,,
-Central West,103,Orange,-33.283577,149.101273,,
-Coffs Harbour - Grafton,104,Coffs Harbour,-30.29626,153.11351,,
-Far West and Orana,105,Broken Hill,-31.9652,141.4512,,
-Hunter Valley exc Newcastle,106,Maitland,-32.7330,151.5574,,
-Illawarra,107,Wollongong,-34.425072,150.893143,,
-Mid North Coast,108,Port Macquarie,-31.43084,152.90894,,
-Murray,109,Albury,-36.07494,146.92394,,
-New England and North West,110,Armidale,-30.50828,151.67123,,
-Newcastle and Lake Macquarie,111,Newcastle,-32.92715,151.77647,,
-Richmond - Tweed,112,Lismore,-28.81354,153.2773,,
-Riverina,113,Wagga Wagga,-35.12577,147.35375,,
-Southern Highlands and Shoalhaven,114,Bowral,-34.4775,150.4204,,
-Sydney - Baulkham Hills and Hawkesbury,115,Baulkham Hills,-33.75881,150.99292,,
-Blacktown,116,Blacktown,-33.76667,150.91667,,
-Sydney - City and Inner South,117,Sydney,-33.86785,151.20732,,
-Sydney - Eastern Suburbs,118,Bondi,-33.89103,151.27157,,
-Sydney - Inner South West,119,Bankstown,-33.91667,151.03333,,
-Sydney - Inner West,120,Newtown,-33.89835,151.17754,,
-North Sydney and Hornsby,121,Chatswood,-33.8,151.18333,,
-Northern Beaches,122,Mona vale,-33.67596,151.30653,,
-Sydney - Outer South West,123,Campbelltown,-34.06667,150.81667,,
-Sydney - Outer West and Blue Mountains,124,Penrith,-33.75,150.7,,
-Sydney - Parramatta,125,Parramatta,-33.81667,151,,
-Sydney - Ryde,126,North Ryde,-33.79677,151.12436,,
-Sydney - South West,127,Liverpool,-33.9,150.93333,,
-Sydney - Sutherland,128,Sutherland,-34.0333,151.0500,,
+Statistical Area Level 4 (SA4),Region code,Suburb,Latitude,Longitude
+Capital Region,101,Canberra,-35.282001,149.128998
+Central Coast,102,The Entrance,-33.347222,151.496111
+Central West,103,Orange,-33.283577,149.101273
+Coffs Harbour - Grafton,104,Coffs Harbour,-30.29626,153.11351
+Far West and Orana,105,Broken Hill,-31.9652,141.4512
+Hunter Valley exc Newcastle,106,Maitland,-32.733,151.5574
+Illawarra,107,Wollongong,-34.425072,150.893143
+Mid North Coast,108,Port Macquarie,-31.43084,152.90894
+Murray,109,Albury,-36.07494,146.92394
+New England and North West,110,Armidale,-30.50828,151.67123
+Newcastle and Lake Macquarie,111,Newcastle,-32.92715,151.77647
+Richmond - Tweed,112,Lismore,-28.81354,153.2773
+Riverina,113,Wagga Wagga,-35.12577,147.35375
+Southern Highlands and Shoalhaven,114,Bowral,-34.4775,150.4204
+Sydney - Baulkham Hills and Hawkesbury,115,Baulkham Hills,-33.75881,150.99292
+Blacktown,116,Blacktown,-33.76667,150.91667
+Sydney - City and Inner South,117,Sydney,-33.86785,151.20732
+Sydney - Eastern Suburbs,118,Bondi,-33.89103,151.27157
+Sydney - Inner South West,119,Bankstown,-33.91667,151.03333
+Sydney - Inner West,120,Newtown,-33.89835,151.17754
+North Sydney and Hornsby,121,Chatswood,-33.8,151.18333
+Northern Beaches,122,Mona vale,-33.67596,151.30653
+Sydney - Outer South West,123,Campbelltown,-34.06667,150.81667
+Sydney - Outer West and Blue Mountains,124,Penrith,-33.75,150.7
+Sydney - Parramatta,125,Parramatta,-33.81667,151
+Sydney - Ryde,126,North Ryde,-33.79677,151.12436
+Sydney - South West,127,Liverpool,-33.9,150.93333
+Sydney - Sutherland,128,Sutherland,-34.0333,151.05
