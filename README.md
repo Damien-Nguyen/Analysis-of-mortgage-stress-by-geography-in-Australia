@@ -3,7 +3,7 @@
 
 ![lightning-strike-house-clipart-md](https://user-images.githubusercontent.com/119761709/217181369-51061235-c5c3-4efc-9c4a-85b3a8e82045.png)
 
-Our project is to analyse mortagage stress by geography in NSW, Australia. 
+Our project is to analyse mortagage stress by geography in NSW, Australia. Mortgage stress defined as an excessive portion of income dedicated to mortgage payments  
 
 ## Background
 
@@ -11,19 +11,40 @@ Interest rates have risen rapidly during 2022 and further rate rised are expecte
 
 ## Fin Tech use of mortgage stress data
 
-A number of online home offerings have emerged in a competitive home loan markets.  Understanding regions with mortgage stress may assist with credit decisioning i.e. charge higher interest rates or reduce lending approvals in areas with high level of stress. 
+Many online/digital home loan providers have emerged (e.g. Ubank, Unloan, etc) which would be interested in geographical areas of high mortgage stress.
+
+## Questions asked
+
+1) Characteristics of mortgage stress for NSW in aggregate
+2) NSW regions with highest levels of mortgage stress 
+3) Drivers for mortgage stress 
+
+## Visualisations
+
+Insert
+
+
+
+
+
+
+
+
 
 ## Data Sources used
 
 1)  Australia Bureau of Statstics (ABS)
 2)  Reserve bank of Australia (RBA)
-3)  Australian Prudential Regulation Authority (APRA).
-4)  Geospatial data - latitudelongitude.org
+3)  Folium for geospatial
+4)  Domain.com.au for analysis
 
-## Geographical Regions
+## Summary of findings
 
-Data is broken down into regions by ABS "Statistical Area 4".  This breaks NSW down into regions.  Examples of this are "Mid North Coast" and "Sydney - Inner West". 
+Highest levels of mortgage stress are in Sydney and within Sydney the highest levels are in the Northern Beaches/Baulkham Hills and Hawksbury.
 
-## Mortgage Stress Definition
+## Data challenges/Postmortem
 
-Households where mortgage repayments are greater than 30% of household income.
+1) ABS website has many different ways to extract data which is confusing
+2) ABS API difficult to use
+3) Some APIs have a cost or take time to set-up
+4) Data gaps exist in lower level ABS geographic data
