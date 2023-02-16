@@ -21,7 +21,7 @@ Many online/digital home loan providers have emerged (e.g. Ubank, Unloan, etc) w
 
 ## Visualisations
 
-### NSW total 
+### NSW total graphs
 
 
 ![NSW_mortgage_no_bar_plot](https://user-images.githubusercontent.com/119761709/219280670-f3903cfe-adb3-4820-9f5e-93808031cf40.png)
