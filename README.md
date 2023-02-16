@@ -31,6 +31,19 @@ Many online/digital home loan providers have emerged (e.g. Ubank, Unloan, etc) w
 
 ![%NSW_mortgage](https://user-images.githubusercontent.com/119761709/219280717-88871ea3-3c68-4f13-b68d-f54041f0e43c.png)
 
+### NSW Map
+
+<img width="873" alt="nswpng" src="https://user-images.githubusercontent.com/119761709/219306839-1da8e513-eb18-43b9-8039-c6dbf1505067.png">
+
+### Northern Beaches map
+
+<img width="873" alt="Nthbeachespng" src="https://user-images.githubusercontent.com/119761709/219307057-178c83cf-0d8b-4cb3-b588-4f0e6df3ddea.png">
+
+### Baulkham Hills graphs
+
+![Baulkham_hills_line_plot](https://user-images.githubusercontent.com/119761709/219307158-e229bec3-4a4f-4cad-9b16-345a534ebbab.png)
+![Baulkham_hills_box_plot](https://user-images.githubusercontent.com/119761709/219307166-763071ae-3ef6-4c84-ada6-30200d135ac6.png)
+![Baulkham_hills_box](https://user-images.githubusercontent.com/119761709/219307170-944e011b-8285-43fb-b50e-1f7efbd9c7e6.png)
 
 
 
