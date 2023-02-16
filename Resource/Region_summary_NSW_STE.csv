@@ -641,7 +641,7 @@ TENURE_5,Tenure type - Occupied private dwellings - Census,Other tenure type (%)
 TENURE_6,Tenure type - Occupied private dwellings - Census,Tenure type not stated (%),2.6,,2.8,,,,,1.5,
 No. Household Mortgage Income <30% ,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where mortgage repayments are less than or equal to 30% of imputed household income (no.),,,,,,,,677486,
 No. Household Mortgage Income >30% ,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where mortgage repayments are more than 30% of imputed household income (no.),,,,,,,,163060,
-%) No. Income <30% Payments,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where rent payments are less than or equal to 30% of imputed household income (no.),,,,,,,,529731,
+ No. Income <30% Payments,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where rent payments are less than or equal to 30% of imputed household income (no.),,,,,,,,529731,
 STRESS_13,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where rent payments are more than 30% of imputed household income (no.),,,,,,,,335404,
 (%)No. Household Mortgage Income <30% ,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where mortgage repayments are less than or equal to 30% of imputed household income (%),,,,,,,,71.9,
 (%)No. Household Mortgage Income >30% ,Mortgage and rent affordability indicators - Occupied private dwellings - Census,Households where mortgage repayments are more than 30% of imputed household income (%),,,,,,,,17.3,
